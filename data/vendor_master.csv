@@ -1,0 +1,153 @@
+vendor_id,vendor_name,business_unit_id,category,risk_rating,country
+VEND-999,Acme Shadow Corp,BU-01,Consulting,High,US
+VEND-888,Global Logistics Shell,BU-02,Logistics,High,CA
+VEND-000,"Rodriguez, Figueroa and Sanchez",BU-01,IT Services,Medium,UK
+VEND-001,Doyle Ltd,BU-02,Office Supplies,Medium,FR
+VEND-002,"Mcclain, Miller and Henderson",BU-01,Logistics,Low,US
+VEND-003,Davis and Sons,BU-01,Office Supplies,Low,FR
+VEND-004,"Guzman, Hoffman and Baldwin",BU-01,Logistics,Low,FR
+VEND-005,"Gardner, Robinson and Lawrence",BU-04,Office Supplies,Low,CA
+VEND-006,Blake and Sons,BU-01,Office Supplies,Low,CA
+VEND-007,"Henderson, Ramirez and Lewis",BU-03,Office Supplies,Low,CA
+VEND-008,Garcia-James,BU-01,IT Services,Low,CA
+VEND-009,Abbott-Munoz,BU-03,Logistics,Low,US
+VEND-010,Blair PLC,BU-04,Logistics,Low,DE
+VEND-011,Dudley Group,BU-01,Logistics,Low,FR
+VEND-012,Arnold Ltd,BU-03,Logistics,Low,US
+VEND-013,"Mcclure, Ward and Lee",BU-01,Office Supplies,Medium,US
+VEND-014,Williams and Sons,BU-02,IT Services,Low,DE
+VEND-015,Galloway-Wyatt,BU-03,Office Supplies,Low,UK
+VEND-016,James Group,BU-03,IT Services,Low,UK
+VEND-017,"Flowers, Martin and Kelly",BU-05,Office Supplies,Low,DE
+VEND-018,"Adams, Zuniga and Wong",BU-03,Logistics,Low,CA
+VEND-019,"Reid, Ferguson and Sanchez",BU-01,Office Supplies,Medium,CA
+VEND-020,Gray-Mayo,BU-04,Marketing,Low,FR
+VEND-021,"Watts, Robinson and Nguyen",BU-03,Office Supplies,Low,DE
+VEND-022,Perez Inc,BU-04,Office Supplies,Low,UK
+VEND-023,Morales-Jones,BU-05,Logistics,Low,FR
+VEND-024,"Walter, Edwards and Rios",BU-04,Logistics,Low,UK
+VEND-025,Wilkerson-Day,BU-02,Logistics,Low,US
+VEND-026,Baker and Sons,BU-01,Office Supplies,Low,DE
+VEND-027,"Hoffman, Baker and Richards",BU-05,IT Services,Low,FR
+VEND-028,"Ross, Robinson and Bright",BU-04,Logistics,Low,FR
+VEND-029,"Snyder, Campos and Callahan",BU-01,IT Services,Low,FR
+VEND-030,Burton Ltd,BU-03,Marketing,Low,DE
+VEND-031,Carlson-Cruz,BU-02,Consulting,Low,CA
+VEND-032,"Ferrell, Rice and Maddox",BU-05,Office Supplies,Low,US
+VEND-033,Frazier Inc,BU-03,Logistics,Low,UK
+VEND-034,"Dyer, Potter and Mack",BU-03,Office Supplies,Low,FR
+VEND-035,Rodriguez-Graham,BU-01,Logistics,Low,US
+VEND-036,Smith-Bowen,BU-01,Marketing,Medium,CA
+VEND-037,"Baker, Mason and White",BU-02,IT Services,Low,FR
+VEND-038,Harrell LLC,BU-01,IT Services,Medium,US
+VEND-039,"Romero, Gonzalez and Brooks",BU-05,Office Supplies,Low,DE
+VEND-040,Ryan PLC,BU-05,Office Supplies,Low,FR
+VEND-041,George Group,BU-04,Office Supplies,High,UK
+VEND-042,Rodriguez LLC,BU-03,Consulting,High,CA
+VEND-043,Allen-Allen,BU-04,Logistics,Low,UK
+VEND-044,"Arroyo, Miller and Tucker",BU-02,IT Services,Low,FR
+VEND-045,Spence PLC,BU-05,Office Supplies,Low,US
+VEND-046,Anderson Group,BU-01,IT Services,Low,US
+VEND-047,"Martin, Rose and Obrien",BU-03,IT Services,Low,CA
+VEND-048,Hickman Ltd,BU-04,Office Supplies,Low,FR
+VEND-049,"Harris, Collins and Carney",BU-05,Consulting,Low,DE
+VEND-050,"Brooks, Lam and Hayes",BU-04,Office Supplies,Low,DE
+VEND-051,Walker LLC,BU-03,Consulting,Low,US
+VEND-052,Chapman and Sons,BU-01,IT Services,Low,CA
+VEND-053,"Robinson, Jones and Welch",BU-01,Office Supplies,Low,FR
+VEND-054,Jones Inc,BU-04,Office Supplies,Low,CA
+VEND-055,Jones-Young,BU-04,Office Supplies,Medium,US
+VEND-056,"Washington, Ryan and Cummings",BU-04,Logistics,Low,FR
+VEND-057,"Johnston, Sanchez and Kennedy",BU-01,IT Services,High,UK
+VEND-058,Lee-Davis,BU-02,Consulting,Low,UK
+VEND-059,Gomez-Jenkins,BU-04,IT Services,Low,US
+VEND-060,"Brown, Valdez and Lucas",BU-04,Marketing,High,DE
+VEND-061,Powell LLC,BU-03,Consulting,Low,FR
+VEND-062,Wright and Sons,BU-04,Office Supplies,Low,UK
+VEND-063,"West, Henderson and Ramirez",BU-01,Logistics,Escalated to Audit Committee,US
+VEND-064,Baxter Inc,BU-03,IT Services,Low,DE
+VEND-065,Morton-Chase,BU-05,Logistics,Low,FR
+VEND-066,Williams PLC,BU-01,Office Supplies,Low,US
+VEND-067,Novak and Sons,BU-02,Consulting,Low,FR
+VEND-068,Russell Group,BU-02,Logistics,Low,FR
+VEND-069,Hancock Inc,BU-01,Consulting,Low,FR
+VEND-070,Gray Group,BU-05,Marketing,High,UK
+VEND-071,House-Glover,BU-03,Office Supplies,Low,UK
+VEND-072,Henderson-Bernard,BU-03,Consulting,Low,US
+VEND-073,"Stanley, Tucker and Lee",BU-01,Consulting,Low,FR
+VEND-074,Novak PLC,BU-01,IT Services,Low,FR
+VEND-075,"Daniels, Adkins and Brown",BU-03,Office Supplies,High,US
+VEND-076,"Woods, Calhoun and Schmidt",BU-02,Marketing,Low,DE
+VEND-077,Yu Inc,BU-05,Marketing,Low,FR
+VEND-078,Jones Inc,BU-01,Logistics,Low,US
+VEND-079,"Hensley, Powell and David",BU-02,Marketing,Low,US
+VEND-080,"Sanchez, Wheeler and Harvey",BU-05,Office Supplies,Low,FR
+VEND-081,Sandoval-Cunningham,BU-02,Marketing,Low,CA
+VEND-082,Donovan-Harris,BU-05,Consulting,Low,US
+VEND-083,"Edwards, Baker and Anderson",BU-01,Consulting,Medium,US
+VEND-084,"Evans, Stewart and Walton",BU-01,Marketing,Medium,CA
+VEND-085,Smith PLC,BU-02,Consulting,Low,DE
+VEND-086,"Ferrell, Jones and Lewis",BU-05,IT Services,Low,UK
+VEND-087,Anderson-Bailey,BU-05,IT Services,Medium,FR
+VEND-088,Suarez LLC,BU-05,Office Supplies,Low,US
+VEND-089,Moore-Bass,BU-03,Marketing,Medium,US
+VEND-090,"Turner, Riggs and Roman",BU-03,Office Supplies,Low,US
+VEND-091,"Smith, Montoya and Evans",BU-03,Logistics,Medium,DE
+VEND-092,"Garcia, Humphrey and Baker",BU-05,Office Supplies,High,UK
+VEND-093,Newton and Sons,BU-02,Office Supplies,Medium,US
+VEND-094,Campbell-Clark,BU-02,Marketing,Medium,DE
+VEND-095,Harris-Walters,BU-02,Marketing,Low,US
+VEND-096,Wagner-King,BU-04,IT Services,Medium,UK
+VEND-097,Davis Group,BU-02,Consulting,Low,UK
+VEND-098,Williams-Cook,BU-02,IT Services,Low,DE
+VEND-099,Walsh LLC,BU-03,Marketing,Medium,CA
+VEND-100,Figueroa PLC,BU-03,Logistics,Low,FR
+VEND-101,"Patterson, Smith and Jones",BU-03,IT Services,Low,CA
+VEND-102,"Mckee, Gardner and Davenport",BU-02,Logistics,High,CA
+VEND-103,"Tran, Jordan and Williams",BU-01,IT Services,Low,CA
+VEND-104,Nolan-Flynn,BU-03,Consulting,Low,FR
+VEND-105,Nolan and Sons,BU-01,Consulting,Medium,UK
+VEND-106,"Wright, Garcia and Deleon",BU-03,IT Services,Medium,US
+VEND-107,Dickson-Brady,BU-05,Logistics,Low,UK
+VEND-108,Hancock and Sons,BU-03,Consulting,Low,CA
+VEND-109,Johnson-Doyle,BU-05,Marketing,Low,US
+VEND-110,Patton-Jenkins,BU-03,Logistics,Low,DE
+VEND-111,"Shields, Cochran and Adams",BU-03,Consulting,Low,FR
+VEND-112,"Rodriguez, Brennan and Garrison",BU-02,Office Supplies,Low,DE
+VEND-113,Gonzalez Group,BU-02,Logistics,Low,DE
+VEND-114,Torres-Pope,BU-05,IT Services,Low,UK
+VEND-115,Walker Ltd,BU-04,Logistics,Low,CA
+VEND-116,Ross LLC,BU-04,Consulting,Low,UK
+VEND-117,Rasmussen LLC,BU-05,Consulting,Medium,UK
+VEND-118,May-Ross,BU-01,Marketing,Low,FR
+VEND-119,"Rivera, Johnson and Wiley",BU-03,IT Services,Medium,UK
+VEND-120,White-Estes,BU-03,Office Supplies,Medium,UK
+VEND-121,Johnson-Carlson,BU-01,IT Services,Low,DE
+VEND-122,Chandler-Edwards,BU-05,IT Services,Low,FR
+VEND-123,"Joyce, Wilson and Lam",BU-02,Consulting,Low,UK
+VEND-124,Scott Ltd,BU-02,IT Services,Medium,US
+VEND-125,Smith-Frost,BU-04,Office Supplies,Low,FR
+VEND-126,"Mcdaniel, Bentley and Mclaughlin",BU-04,IT Services,Low,US
+VEND-127,Diaz Inc,BU-04,Office Supplies,Medium,FR
+VEND-128,"Mccall, Hanson and Alvarado",BU-05,Logistics,Low,DE
+VEND-129,Cortez LLC,BU-05,Logistics,Low,FR
+VEND-130,"Parker, Ortiz and Powell",BU-04,Office Supplies,Medium,DE
+VEND-131,Spencer-Lee,BU-04,Marketing,Medium,CA
+VEND-132,"Bentley, Byrd and Orr",BU-05,Consulting,Low,CA
+VEND-133,"Carroll, Sullivan and Bass",BU-04,IT Services,Medium,UK
+VEND-134,Mitchell-Jordan,BU-03,Marketing,Low,FR
+VEND-135,"Lawson, Morris and Ramos",BU-01,Office Supplies,Low,DE
+VEND-136,"Lewis, Kennedy and Santana",BU-02,Office Supplies,Low,DE
+VEND-137,"Jackson, Miller and Robertson",BU-03,Logistics,Low,US
+VEND-138,"Harvey, Davis and Crane",BU-02,Consulting,Low,FR
+VEND-139,Chambers and Sons,BU-01,Logistics,Low,US
+VEND-140,Hernandez Inc,BU-03,Marketing,Medium,DE
+VEND-141,Riggs PLC,BU-05,Logistics,Medium,UK
+VEND-142,Gibson Ltd,BU-04,Office Supplies,Low,DE
+VEND-143,"Lee, Horton and Snyder",BU-01,Consulting,Low,DE
+VEND-144,Hernandez Ltd,BU-02,Consulting,High,FR
+VEND-145,Stafford Inc,BU-05,IT Services,High,FR
+VEND-146,Robinson-Brock,BU-05,IT Services,Low,DE
+VEND-147,"Holmes, Williams and Wright",BU-02,Consulting,Low,CA
+VEND-148,Bryant Group,BU-04,Marketing,Low,CA
+VEND-149,"Schmidt, Hansen and Stewart",BU-03,Consulting,Low,DE

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+faker
+pydantic
+anthropic
+python-dotenv
+reportlab

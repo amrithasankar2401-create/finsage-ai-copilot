@@ -1,0 +1,284 @@
+[
+  {
+    "proposal_id": "ACT-3BA340E3",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-999",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-999 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.134823Z"
+  },
+  {
+    "proposal_id": "ACT-29AEEEBC",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-026",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-026 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.158400Z"
+  },
+  {
+    "proposal_id": "ACT-B616CAA1",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-069",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-069 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.182008Z"
+  },
+  {
+    "proposal_id": "ACT-781A2F89",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-038",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-038 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.199026Z"
+  },
+  {
+    "proposal_id": "ACT-9411A8BC",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-002",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-002 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.219936Z"
+  },
+  {
+    "proposal_id": "ACT-D71C71E9",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-013",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-013 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.232454Z"
+  },
+  {
+    "proposal_id": "ACT-303D38B2",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-053",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-053 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.249437Z"
+  },
+  {
+    "proposal_id": "ACT-8D47120A",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-139",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-139 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.265399Z"
+  },
+  {
+    "proposal_id": "ACT-0CA513D4",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-143",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-143 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.282871Z"
+  },
+  {
+    "proposal_id": "ACT-FE0618A7",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-057",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-057 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.307632Z"
+  },
+  {
+    "proposal_id": "ACT-384EA379",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-078",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-078 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.323973Z"
+  },
+  {
+    "proposal_id": "ACT-EEB2C794",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-035",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-035 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.349142Z"
+  },
+  {
+    "proposal_id": "ACT-F71B3D2E",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-029",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-029 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.369396Z"
+  },
+  {
+    "proposal_id": "ACT-36B212A6",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-000",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-000 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.390545Z"
+  },
+  {
+    "proposal_id": "ACT-9EC9227E",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-063",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-063 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "approved_and_executed",
+    "created_at": "2026-07-14T06:52:51.408451Z",
+    "executed_at": "2026-07-14T07:23:23.232645Z",
+    "executed_by": "controller@finsage-demo.com"
+  },
+  {
+    "proposal_id": "ACT-9608264E",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-121",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-121 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.423426Z"
+  },
+  {
+    "proposal_id": "ACT-6A182F5B",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-095",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-095 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.447811Z"
+  },
+  {
+    "proposal_id": "ACT-96A89F4F",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-113",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-113 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.456361Z"
+  },
+  {
+    "proposal_id": "ACT-C0A87F55",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-093",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-093 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.472884Z"
+  },
+  {
+    "proposal_id": "ACT-2FC1D39A",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-888",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-888 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.490232Z"
+  },
+  {
+    "proposal_id": "ACT-61D579DE",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-067",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-067 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.506726Z"
+  },
+  {
+    "proposal_id": "ACT-45119A68",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-097",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-097 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.523613Z"
+  },
+  {
+    "proposal_id": "ACT-E71EABC2",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-123",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-123 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.548291Z"
+  },
+  {
+    "proposal_id": "ACT-AAA2B5BF",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-147",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-147 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.568882Z"
+  },
+  {
+    "proposal_id": "ACT-1090E6D1",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-037",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-037 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.589822Z"
+  },
+  {
+    "proposal_id": "ACT-C35DD4B5",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-031",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-031 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.606691Z"
+  },
+  {
+    "proposal_id": "ACT-0F8B1698",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-076",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-076 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.623102Z"
+  },
+  {
+    "proposal_id": "ACT-C5A64C17",
+    "action_type": "escalate_to_audit_committee",
+    "target_entity_id": "VEND-124",
+    "target_type": "vendor",
+    "description": "Autonomous detection: Vendor VEND-124 flagged across multiple domains.",
+    "proposed_by": "autonomous_scan",
+    "status": "pending",
+    "created_at": "2026-07-14T06:52:51.640344Z"
+  }
+]
